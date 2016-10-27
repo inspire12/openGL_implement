@@ -1,0 +1,5 @@
+﻿  소스.cpp
+e:\visual studio\projects\consoleapplication3\consoleapplication3\소스.cpp(38): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+e:\visual studio\projects\consoleapplication3\consoleapplication3\소스.cpp(39): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  ConsoleApplication3.vcxproj -> E:\visual studio\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> E:\visual studio\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
